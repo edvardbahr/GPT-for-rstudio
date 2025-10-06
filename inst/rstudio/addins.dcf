@@ -1,0 +1,4 @@
+Name: GPT assistance
+Description: Select text and have GPT interpret it.
+Binding: explain_code
+Interactive: true
